@@ -1,3 +1,3 @@
 # Demo
 
-Hello, Welcome to Git & GitHub
+Hello, Welcome to Git & GitHub.
